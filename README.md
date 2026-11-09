@@ -1,4 +1,4 @@
-# Splato — media-to-3D reconstruction
+# Lok — media-to-3D reconstruction
 
 Splato turns a supported capture into a reconstruction-ready image sequence and a
 quality-gated 3D point cloud, viewable in the browser.
